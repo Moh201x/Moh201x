@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student At Just 👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47haujaocubpp5yain7l4w5so4xdznzy4zuuwuqypf&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Web Development & Mobile Application Development ( Flutter )**
+- 🌱 I’m currently learning **Mobile Application Development ( Flutter )**
 
 - 📫 How to reach me **mohammedk.daoud360@gmail.com**
 
